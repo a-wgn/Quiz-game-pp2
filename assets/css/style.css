@@ -1,0 +1,6 @@
+.container {
+    width: 800px;
+    max-width: 80%;
+    background-color: yellow;
+    border-radius: 5px;
+}
